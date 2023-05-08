@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6ee5aaea.css",
+    "main.js": "/portfolio/static/js/main.e1dea57e.js",
+    "static/js/787.bbe01249.chunk.js": "/portfolio/static/js/787.bbe01249.chunk.js",
+    "static/media/truck_line2.png": "/portfolio/static/media/truck_line2.26307f44b261e27b26b1.png",
+    "static/media/Movie_long.png": "/portfolio/static/media/Movie_long.588fc88aa3ffda63a657.png",
+    "static/media/Youtube_long.png": "/portfolio/static/media/Youtube_long.f0174e49d9d2e3f31073.png",
+    "static/media/Ecommerce_long.png": "/portfolio/static/media/Ecommerce_long.5c126521a8906e3e05b5.png",
+    "static/media/truck_line.PNG": "/portfolio/static/media/truck_line.266293596bf12807eb60.PNG",
+    "static/media/movieApp.png": "/portfolio/static/media/movieApp.0b18ba87009e0d6bc0d6.png",
+    "static/media/quizeApp1.png": "/portfolio/static/media/quizeApp1.bf76cc57c3c2e0a4813a.png",
+    "static/media/music.png": "/portfolio/static/media/music.80f5799a722a91b043ae.png",
+    "static/media/youtube.png": "/portfolio/static/media/youtube.2c9e3462710677348aee.png",
+    "static/media/cv.pdf": "/portfolio/static/media/cv.10374c905fec2ae1cb21.pdf",
+    "static/media/hero.png": "/portfolio/static/media/hero.fa861f29bd4790cedc2a.png",
+    "static/media/tiktok.png": "/portfolio/static/media/tiktok.3bb31a8a92f3cb18805a.png",
+    "static/media/ecommerce.png": "/portfolio/static/media/ecommerce.d63bdf5a8fd46d243d1a.png",
+    "static/media/Profile2.png": "/portfolio/static/media/Profile2.ecc4f98cb4b993d1aa83.png",
+    "static/media/codes.webp": "/portfolio/static/media/codes.731808eef6501fa2747f.webp",
+    "static/media/whatsapp.png": "/portfolio/static/media/whatsapp.f38d424ea66df1a54ef7.png",
+    "static/media/Profile1.png": "/portfolio/static/media/Profile1.e873c0d2f5cfec41b2d3.png",
+    "static/media/portfolioHero.jpg": "/portfolio/static/media/portfolioHero.994077c78fa10d155861.jpg",
+    "static/media/upwork.png": "/portfolio/static/media/upwork.b1a90130a5795f4b7829.png",
+    "static/media/contact_hero2.jpg": "/portfolio/static/media/contact_hero2.8457942b19e0612e4694.jpg",
+    "static/media/fiverr.png": "/portfolio/static/media/fiverr.bf6e3d72bf7abf7ae944.png",
+    "index.html": "/portfolio/index.html",
+    "main.6ee5aaea.css.map": "/portfolio/static/css/main.6ee5aaea.css.map",
+    "main.e1dea57e.js.map": "/portfolio/static/js/main.e1dea57e.js.map",
+    "787.bbe01249.chunk.js.map": "/portfolio/static/js/787.bbe01249.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ee5aaea.css",
+    "static/js/main.e1dea57e.js"
+  ]
+}
