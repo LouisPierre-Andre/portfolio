@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.188476db.css",
-    "main.js": "/portfolio/static/js/main.140ec6b5.js",
+    "main.js": "/portfolio/static/js/main.441e7c97.js",
     "static/media/movieApp.png": "/portfolio/static/media/movieApp.0b18ba87009e0d6bc0d6.png",
     "static/media/quizeApp.png": "/portfolio/static/media/quizeApp.5c123ab1ab0276414f4c.png",
     "static/media/hotel2.png": "/portfolio/static/media/hotel2.f3ea9ce9a0c0e274bce7.png",
@@ -10,7 +10,6 @@
     "static/media/restaurant.png": "/portfolio/static/media/restaurant.adcfdfb85cc96d28e7a6.png",
     "static/media/transport.png": "/portfolio/static/media/transport.d5ab7efedc1eb6e554b0.png",
     "static/media/website2.PNG": "/portfolio/static/media/website2.2c559eaf2e27e7430ffc.PNG",
-    "static/media/cv.pdf": "/portfolio/static/media/cv.10374c905fec2ae1cb21.pdf",
     "static/media/hero.png": "/portfolio/static/media/hero.fa861f29bd4790cedc2a.png",
     "static/media/website3.PNG": "/portfolio/static/media/website3.9d7e4c3eee25d92506bd.PNG",
     "static/media/Profil Img.png": "/portfolio/static/media/Profil Img.8c394acce09ddb21e6c5.png",
@@ -18,6 +17,7 @@
     "static/media/ecommerce.png": "/portfolio/static/media/ecommerce.d63bdf5a8fd46d243d1a.png",
     "static/media/website1.PNG": "/portfolio/static/media/website1.1787f787c1b54242c20a.PNG",
     "static/media/website4.PNG": "/portfolio/static/media/website4.2871ac47f05442e7f3a2.PNG",
+    "static/media/CV2.pdf": "/portfolio/static/media/CV2.8e55eb64cf10fec924c9.pdf",
     "static/media/php_logo.jpg": "/portfolio/static/media/php_logo.ac072d845a8452d0adad.jpg",
     "static/media/CSS3_logo.png": "/portfolio/static/media/CSS3_logo.0b43b6d8cf9f1c21a598.png",
     "static/media/cisco2.png": "/portfolio/static/media/cisco2.3626987dddfdd6e0d179.png",
@@ -47,10 +47,10 @@
     "static/media/html_logo.png": "/portfolio/static/media/html_logo.ff3cf75e3b7cbb4ea77c.png",
     "index.html": "/portfolio/index.html",
     "main.188476db.css.map": "/portfolio/static/css/main.188476db.css.map",
-    "main.140ec6b5.js.map": "/portfolio/static/js/main.140ec6b5.js.map"
+    "main.441e7c97.js.map": "/portfolio/static/js/main.441e7c97.js.map"
   },
   "entrypoints": [
     "static/css/main.188476db.css",
-    "static/js/main.140ec6b5.js"
+    "static/js/main.441e7c97.js"
   ]
 }
